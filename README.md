@@ -5,7 +5,7 @@
       </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FrozenQueenElsa0903&label=Profile%20views&color=0e75b6&style=flat" alt="FrozenQueenElsa0903" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrozenQueenElsa0903" alt="FrozenQueenElsa0903" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FrozenQueenElsa0903&theme=darkhub" alt="FrozenQueenElsa0903" /></a> </p>
 
 - 🔭 I’m currently working on [Iris Girls Club] 
 
