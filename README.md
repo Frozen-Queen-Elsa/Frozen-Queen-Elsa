@@ -17,7 +17,8 @@
 
 
 </p>
-
+## Contact me:
+<img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80"> <a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-2/900438533997731850.png" alt="discord" /></a> <img src='https://media.discordapp.net/attachments/857463322361462806/898196867190501376/standard.gif' alt="Welcome" width="80">
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
