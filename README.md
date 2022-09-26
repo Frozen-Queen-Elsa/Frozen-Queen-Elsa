@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm FrozenQueenElsa. You can call me by Iris</h1>
 <h3 align="center">My birthday is 09/03</h3>
 <p align="center">
-<a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-2/900438533997731850.png" alt="discord" /></a> 
-<a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-4/900438533997731850.png" alt="discord" /></a> 
+<a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-3/900438533997731850.png" alt="discord" /></a> 
 </p>
 <p align="center"> 
         <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="617px"/>
