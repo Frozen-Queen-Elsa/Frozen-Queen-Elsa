@@ -17,8 +17,11 @@
 
 
 </p>
+
 ## Contact me:
+
 <a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-2/900438533997731850.png" alt="discord" /></a> 
+
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
