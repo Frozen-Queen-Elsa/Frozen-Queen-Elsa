@@ -6,9 +6,9 @@
 <p align="center"> 
         <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="617px"/>
       </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FrozenQueenElsa0903&label=Profile%20views&color=0e75b6&style=flat" alt="FrozenQueenElsa0903" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Frozen-Queen-Elsa&label=Profile%20views&color=0e75b6&style=flat" alt="Frozen-Queen-Elsa" /> </p>
 
-<p align="left"> <a href="https://github.com/FrozenQueenElsa0903/Elsa-Github-Tropy"><img src="https://github-profile-trophy.vercel.app/?username=FrozenQueenElsa0903&theme=tokyonight&row=2&column=3&no-bg=true" alt="FrozenQueenElsa0903" /></a> </p>
+<p align="left"> <a href="https://github.com/Frozen-Queen-Elsa/Elsa-Github-Tropy"><img src="https://github-profile-trophy.vercel.app/?username=Frozen-Queen-Elsa&theme=tokyonight&row=2&column=3&no-bg=true" alt="Frozen-Queen-Elsa" /></a> </p>
 
 - 🔭 I’m currently working on [Iris Girls Club] 
 
@@ -42,8 +42,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenQueenElsa0903&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="FrozenQueenElsa0903" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=FrozenQueenElsa0903&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="FrozenQueenElsa0903" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozen-Queen-Elsa&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Frozen-Queen-Elsa" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Frozen-Queen-Elsa&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Frozen-Queen-Elsa" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -53,4 +53,4 @@
   </tr>
 </table>
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenQueenElsa0903&" alt="FrozenQueenElsa0903" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frozen-Queen-Elsa&" alt="Frozen-Queen-Elsa" /></p>
