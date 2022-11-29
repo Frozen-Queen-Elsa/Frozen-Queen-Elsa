@@ -6,11 +6,11 @@
 <table style="width:100%;">
   <tr>
     <td>
-     <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="300px"/>
+     <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="421px"/>
     </td>
     <td>
       <p align="right"> 
-        <img src="https://i.ibb.co/ynD1Ffn/Elsa-Yugioh.png" alt="Elsa" width="300px"/>
+        <img src="https://i.ibb.co/ynD1Ffn/Elsa-Yugioh.png" alt="Elsa" width="421px"/>
       </p>
     </td>
   </tr>
