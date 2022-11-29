@@ -5,10 +5,8 @@
 </p>
 <p align="center"> 
         <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="300px"/>
-      </p>
-      </p>
-<p align="center"> 
-        <img src="[https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g](https://i.ibb.co/ynD1Ffn/Elsa-Yugioh.png)" alt="Elsa" width="617px"/>
+
+        <img src="https://i.ibb.co/ynD1Ffn/Elsa-Yugioh.png" alt="Elsa" width="300px"/>
       </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Frozen-Queen-Elsa&label=Profile%20views&color=0e75b6&style=flat" alt="Frozen-Queen-Elsa" /> </p>
 
