@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://discord.com/users/900438533997731850"><img src="https://discord.c99.nl/widget/theme-3/900438533997731850.png" alt="discord" /></a> 
 </p>
-<table style="width:100%;">
+<table style="width:100%;"align="center">
   <tr>
     <td>
      <img src="https://media1.giphy.com/media/42WdiWfCKp6xD9uUQ2/giphy.gif?cid=790b761110372aa7ecc416fa3dbee5d33fadc5fc090c1c69&rid=giphy.gif&ct=g" alt="Elsa" width="421px"/>
     </td>
     <td>
-      <p align="right"> 
+      <p > 
         <img src="https://i.ibb.co/ynD1Ffn/Elsa-Yugioh.png" alt="Elsa" width="421px"/>
       </p>
     </td>
